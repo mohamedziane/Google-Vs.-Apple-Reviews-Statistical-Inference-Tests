@@ -95,7 +95,7 @@ Let's combine the two datasets into a single data frame called `df`.
 As you can see there are some `NaN` values. We want to eliminate all these `NaN` values from the table.
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img7.png">
+  <img width="900" height="700" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img7.png">
 </p>
 
 
@@ -106,7 +106,7 @@ Apps that haven't been reviewed yet can't help us solve our brief.
 So let's check to see if any apps have no reviews at all. 
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img8.png">
+  <img width="800" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img8.png">
 </p>
 
 **Summarizing the data visually and analytically (by the column `platform`)**
