@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="600" height="600" src="https://www.mobileaction.co/blog/wp-content/uploads/2014/07/app-store-vs-google-play.jpg?x38980">
+  <img width="600" height="200" src="https://www.mobileaction.co/blog/wp-content/uploads/2014/07/app-store-vs-google-play.jpg?x38980">
 </p>
 
 ## 1. Introduction:
