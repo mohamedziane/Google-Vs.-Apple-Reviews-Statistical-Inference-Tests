@@ -53,7 +53,7 @@ The source is Kaggle. The data from the Apple Store can be found [here](https://
 Types are crucial for data science in Python. Let's determine whether the variables we selected in the previous section belong to the types they should do, or whether there are any errors here. 
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img2.png">
+  <img width="1000" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img2.png">
   <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img3.png">
 </p>
 
