@@ -92,12 +92,7 @@ Let's combine the two datasets into a single data frame called `df`.
 
 **Eliminating the NaN values**
 
-As you can see there are some `NaN` values. We want to eliminate all these `NaN` values from the table.
-
-<p align="center">
-  <img width="900" height="700" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img7.png">
-</p>
-
+We want to eliminate all these `NaN` values from the table.
 
 **Filtering the data so that we only see whose apps that have been reviewed at least once**
 
@@ -106,7 +101,7 @@ Apps that haven't been reviewed yet can't help us solve our brief.
 So let's check to see if any apps have no reviews at all. 
 
 <p align="center">
-  <img width="800" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img8.png">
+  <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img8.png">
 </p>
 
 **Summarizing the data visually and analytically (by the column `platform`)**
@@ -114,7 +109,7 @@ So let's check to see if any apps have no reviews at all.
 What we need to solve our brief is a summary of the `Rating` column, but separated by the different platforms.
 
 <p align="center">
-  <img width="900" height="600" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img9.png">
+  <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img9.png">
 </p>
 
 ## 3. Modeling
@@ -168,6 +163,3 @@ It doesn't matter which significance level we pick; our observed data is statist
 We conclude that platform does impact on ratings. Specifically, we should advise our client to integrate **only Google Play** into their operating system interface. 
 
 
-
-
-https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/Notebook/Apps_Statistics_Apple_Google_ZianeMohamed.ipynb
