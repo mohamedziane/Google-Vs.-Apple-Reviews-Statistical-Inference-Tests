@@ -114,7 +114,7 @@ So let's check to see if any apps have no reviews at all.
 What we need to solve our brief is a summary of the `Rating` column, but separated by the different platforms.
 
 <p align="center">
-  <img width="900" height="800" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img9.png">
+  <img width="900" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img9.png">
 </p>
 
 ## 3. Modeling
