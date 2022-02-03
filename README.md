@@ -54,7 +54,7 @@ Types are crucial for data science in Python. Let's determine whether the variab
 
 <p align="center">
   <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img2.png">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img3.png">
+  <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img3.png">
 </p>
 
 **Add a `platform` column to both the `Apple` and the `Google` dataframes**
