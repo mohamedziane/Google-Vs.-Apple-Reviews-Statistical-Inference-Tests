@@ -109,12 +109,12 @@ So let's check to see if any apps have no reviews at all.
   <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img8.png">
 </p>
 
-**Summarize the data visually and analytically (by the column `platform`)**
+**Summarizing the data visually and analytically (by the column `platform`)**
 
 What we need to solve our brief is a summary of the `Rating` column, but separated by the different platforms.
 
 <p align="center">
-  <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img9.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img9.png">
 </p>
 
 ## 3. Modeling
