@@ -162,8 +162,8 @@ Now that the hypotheses and significance level are defined, we can select a stat
 There are many different statistical tests, all with different assumptions. You'll generate an excellent judgement about when to use which statistical tests over the Data Science Career Track. But in general, one of the most important things to determine is the **distribution of the data**.   
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img10.png">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img11.png">
+  <img width="800" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img10.png">
+  <img width="800" height="400" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img11.png">
 </p>
 
 **Permutation test**
