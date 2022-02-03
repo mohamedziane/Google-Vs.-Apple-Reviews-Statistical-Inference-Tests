@@ -180,7 +180,7 @@ Check out more about permutations [here.](http://rasbt.github.io/mlxtend/user_gu
 ## 4.  Evaluating and concluding
 
 <p align="center">
-  <img width="400" height="800" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img13.png">
+  <img width="400" height="200" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img13.png">
 </p>
 
 So actually, zero differences are at least as extreme as our observed difference!
