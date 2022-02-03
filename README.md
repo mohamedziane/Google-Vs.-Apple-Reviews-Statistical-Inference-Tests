@@ -43,7 +43,7 @@ Did Apple Store apps receive better reviews than Google Play apps?
 The source is Kaggle. The data from the Apple Store can be found [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) and the data from Google Store can be found [here](https://www.kaggle.com/lava18/google-play-store-apps).
 
 <p align="center">
-  <img width="600" height="200" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img1.png">
+  <img width="800" height="200" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img1.png">
 </p>
 
 ## 3. Cleaning, transforming and visualizing
