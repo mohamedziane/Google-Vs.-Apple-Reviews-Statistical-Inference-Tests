@@ -166,3 +166,8 @@ So the p-value of our observed data is 0.
 It doesn't matter which significance level we pick; our observed data is statistically significant, and we reject the Null.
 
 We conclude that platform does impact on ratings. Specifically, we should advise our client to integrate **only Google Play** into their operating system interface. 
+
+
+
+
+https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/Notebook/Apps_Statistics_Apple_Google_ZianeMohamed.ipynb
