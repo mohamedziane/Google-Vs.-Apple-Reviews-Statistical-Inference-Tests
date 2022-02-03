@@ -182,6 +182,25 @@ Check out more about permutations [here.](http://rasbt.github.io/mlxtend/user_gu
 <p align="center">
   <img width="400" height="200" src="https://raw.githubusercontent.com/mohamedziane/Google-Vs.-Apple-Reviews-Statistical-Inference-Tests/main/images/img13.png">
 </p>
+'''
+What do we know? 
+
+Recall: The p-value of our observed data is just the proportion of the data given the null that's at least as extreme as that observed data.
+
+As a result, we're going to count how many of the differences in our difference list are at least as extreme as our observed difference.
+
+If less than or equal to 5% of them are, then we will reject the Null. 
+'''
+positiveExtremes = []
+negativeExtremes = []
+for i in range(len(difference)):
+    if (difference[i] >= obs_difference):
+        positiveExtremes.append(difference[i])
+    elif (difference[i] <= -obs_difference):
+        negativeExtremes.append(difference[i])
+
+print(len(positiveExtremes))
+print(len(negativeExtremes))
 
 So actually, zero differences are at least as extreme as our observed difference!
 
